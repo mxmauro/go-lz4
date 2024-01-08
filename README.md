@@ -48,8 +48,10 @@ func main() {
 ```
 
 ## CGO
+
 The library uses the original C native implementation. To use it, CGO must be enabled.
 Also take into account cross-platform compilation may fail if `gcc` utility for the target OS is not installed.
 
 ## License
-See `LICENSE` file for details.
+
+See [LICENSE](/LICENSE) file for details.
