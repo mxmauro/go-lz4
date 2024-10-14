@@ -5,7 +5,7 @@ go-lz4 is Go minimal wrapper for the [LZ4](https://github.com/lz4/lz4) compressi
 
 ##### NOTE:
 
-* This is a fork of the original [RandLabs.IO's rundown protection library](https://github.com/randlabs/rundown-protection).
+* This is a fork of the original [RandLabs.IO's LZ4 wrapper library](https://github.com/randlabs/go-lz4).
   May contain some modified functionality.
 
 ## Usage with example
