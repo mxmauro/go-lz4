@@ -1,3 +1,5 @@
+// See the LICENSE file for license details.
+
 package lz4
 
 // #cgo CFLAGS: -O3 -Wall

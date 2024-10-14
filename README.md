@@ -3,6 +3,11 @@ go-lz4
 
 go-lz4 is Go minimal wrapper for the [LZ4](https://github.com/lz4/lz4) compression library.
 
+##### NOTE:
+
+* This is a fork of the original [RandLabs.IO's rundown protection library](https://github.com/randlabs/rundown-protection).
+  May contain some modified functionality.
+
 ## Usage with example
 
 ```golang
@@ -13,7 +18,7 @@ import (
 	"crypto/rand"
 	"fmt"
 
-	"github.com/randlabs/go-lz4"
+	"github.com/mxmauro/go-lz4"
 )
 
 func main() {

@@ -1,8 +1,11 @@
+// See the LICENSE file for license details.
+
 package lz4
 
 import (
-	"C"
 	"unsafe"
+
+	"C"
 )
 
 // -----------------------------------------------------------------------------

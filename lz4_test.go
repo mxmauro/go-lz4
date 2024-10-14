@@ -1,3 +1,5 @@
+// See the LICENSE file for license details.
+
 package lz4_test
 
 import (
@@ -5,7 +7,7 @@ import (
 	"crypto/rand"
 	"testing"
 
-	"github/randlabs/go-lz4"
+	"github.com/mxmauro/go-lz4"
 )
 
 // -----------------------------------------------------------------------------

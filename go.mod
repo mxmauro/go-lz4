@@ -1,3 +1,3 @@
-module github.com/randlabs/go-lz4
+module github.com/mxmauro/go-lz4
 
 go 1.17
